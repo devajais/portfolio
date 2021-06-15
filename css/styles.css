@@ -1,0 +1,114 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  /*#feffde*/
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  color: #66BFBF;
+  /*#91c788*/
+}
+
+.name {
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  margin-bottom: 0;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #e0ebe8;
+  width: 3%;
+  border-width: 5px;
+}
+
+.paragraph-desc {
+  font-family: 'Mate SC', serif;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+}
+
+.dp-intro {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.design {
+  float: left;
+}
+
+.develop {
+  float: right;
+}
+
+.skill-heading {
+  padding-top: 40px;
+}
+
+.myButton {
+  box-shadow: inset 0px 0px 0px 1px #dcecfb;
+  background: linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+  background-color: #bddbfa;
+  border-radius: 11px;
+  border: 2px solid #84bbf3;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Trebuchet MS;
+  font-size: 16px;
+  font-weight: bold;
+  padding: 9px 8px;
+  text-decoration: none;
+  text-shadow: 0px 2px 3px #1463b3;
+}
+
+.myButton:hover {
+  background: linear-gradient(to bottom, #80b5ea 5%, #bddbfa 100%);
+  background-color: #80b5ea;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+.footer{
+  padding-top: 20px;
+  padding-bottom: 5px;
+  background-color: #66BFBF;
+}
+a{
+  margin: 10px 20px;
+  color: #11999E;
+  text-decoration: none;
+}
+a:hover{
+  background-color: white;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
