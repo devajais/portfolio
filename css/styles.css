@@ -95,20 +95,24 @@ hr {
   position: relative;
   top: 1px;
 }
-.footer{
+
+.footer {
   padding-top: 20px;
   padding-bottom: 5px;
   background-color: #66BFBF;
 }
-a{
+
+a {
   margin: 10px 20px;
   color: #11999E;
   text-decoration: none;
 }
-a:hover{
+
+a:hover {
   background-color: white;
 }
-.copyright{
+
+.copyright {
   color: #EAF6F6;
   font-size: 0.75rem;
 }
